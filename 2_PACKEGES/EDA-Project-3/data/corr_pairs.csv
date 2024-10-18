@@ -1,0 +1,7 @@
+coef,row_name,col_name
+0.6714520052660975,serial,season
+0.5665771431883249,release_year,show_id
+0.1678801811613766,serial,release_year
+0.14563019572622787,serial,show_id
+0.09294798963126567,season,release_year
+0.04361512596822732,season,show_id

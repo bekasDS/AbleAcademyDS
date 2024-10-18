@@ -1,0 +1,26 @@
+{
+   "0": {
+      "name": "School №168",
+      "address": "ш. Фадеева, д. 848 к. 5/8",
+      "phone": "89382421948",
+      "email": "nikiforovvalerjan@example.net",
+      "students_count": 95,
+      "teachers_count": 8
+   },
+   "1": {
+      "name": "School №51",
+      "address": "ш. Тургенева, д. 9/2",
+      "phone": "86593877840",
+      "email": "agafon_1976@example.net",
+      "students_count": 50,
+      "teachers_count": 7
+   },
+   "2": {
+      "name": "School №105",
+      "address": "бул. Молодежный, д. 6/4 к. 2",
+      "phone": "+7(933)287-1158",
+      "email": "velimir1990@example.net",
+      "students_count": 79,
+      "teachers_count": 11
+   }
+}
